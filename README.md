@@ -4,3 +4,7 @@ Repository containing portfolio of data analysis projects completed by me for ac
 ### Machine Learning Projects
 - **_Python_**
   - Housing Price Advance Regression:
+  - Employee Attrition(HR Analytics):
+- **_R_**
+  - Credit Card Spend Prediction:
+  - Customer Churn(Telecomm Company):
