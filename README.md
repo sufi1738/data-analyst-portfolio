@@ -8,3 +8,7 @@ Repository containing portfolio of data analysis projects completed by me for ac
 - **_R_**
   - Credit Card Spend Prediction:
   - Customer Churn(Telecomm Company):
+### Data Analysis and Visualisation
+- **_Python_**
+- **_R_**
+### Micro Projects
