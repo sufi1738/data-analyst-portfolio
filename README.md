@@ -3,4 +3,4 @@ Repository containing portfolio of data analysis projects completed by me for ac
 ## Contents
 ### Machine Learning Projects
 - **_Python_**
-  -Housing Price Advance Regression:
+  - Housing Price Advance Regression:
