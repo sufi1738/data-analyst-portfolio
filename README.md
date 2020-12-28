@@ -11,4 +11,6 @@ Repository containing portfolio of data analysis projects completed by me for ac
 ### Data Analysis and Visualisation
 - **_Python_**
 - **_R_**
+- **_Tableau_**
+  - [**Sports Equipment Retail Outlet - Revenue Summary**](https://public.tableau.com/profile/sufiyan.ullah#!/vizhome/CaseStudy1_15965527244210/SportsEquipmentRetailOutlet-RevenueSummary):
 ### Micro Projects
