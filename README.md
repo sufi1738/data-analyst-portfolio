@@ -15,3 +15,5 @@ Repository containing portfolio of data analysis projects completed by me for ac
   - [**Sports Equipment Retail Outlet - Revenue Summary**](https://public.tableau.com/profile/sufiyan.ullah#!/vizhome/CaseStudy1_15965527244210/SportsEquipmentRetailOutlet-RevenueSummary): Revenue Summary of a leading Sports Equipment Retail Outlet. 
   - [**Evictions in San Francisco**](https://public.tableau.com/profile/sufiyan.ullah#!/vizhome/MoM19W39-EvictionsinSanFrancisco/MoM19W39): This visualization displays the trend in evictions, where evictions occur and for what reasons.
 ### Micro Projects
+- **_R_**
+  - [**Segmentation of a Telecom Company**](https://rpubs.com/Sufiyan1738/Telco_Segmentation): A US based fixed-line telecom service provider wants to roll out bundled combo minute plans eg: STD call plans, Local call plans and internet plans.
