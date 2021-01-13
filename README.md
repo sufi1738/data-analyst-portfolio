@@ -17,3 +17,5 @@ Repository containing portfolio of data analysis projects completed by me for ac
 ### Micro Projects
 - **_R_**
   - [**Segmentation of a Telecom Company**](https://rpubs.com/Sufiyan1738/Telco_Segmentation): A US based fixed-line telecom service provider wants to roll out bundled combo minute plans eg: STD call plans, Local call plans and internet plans.
+- **_Python_**
+  - [**Hypothesis Testing **](): This include hypothesis test conducted on some of the questions.
