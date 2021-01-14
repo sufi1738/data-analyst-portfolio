@@ -4,7 +4,7 @@ Repository containing portfolio of data analysis projects completed by me for ac
 ### Machine Learning Projects
 - **_Python_**
   - [**Housing Price Advance Regression**](https://github.com/sufi1738/data-analyst-portfolio/blob/main/House%20Prediction/House%20Price%20Case%20Study.ipynb): A model to predict the value of a given house in Ames City, USA real estate market using various statistical tools. Identify the best price that a client can sell their house utilizing machine learning.
-  - [**Employee Attrition(HR Analytics)**](https://github.com/sufi1738/data-analyst-portfolio/blob/main/Employee%20Attrition/HR%20Analytics%20Case%20Study.ipynb): Creating a model to identify drivers that contributes to employee attrition. This will help the company to reduce attrition which effect the company's reputaion because of the delays in projects. 
+  - [**Employee Attrition(HR Analytics)**](https://github.com/sufi1738/data-analyst-portfolio/blob/main/Employee%20Attrition/HR%20Analytics%20Case%20Study.ipynb): Creating a model to identify drivers that contributes to employee attrition. This will help the company to reduce attrition which effect the company's reputation because of the delays in projects. 
 - **_R_**
   - [**Credit Card Spend Prediction**](https://rpubs.com/Sufiyan1738/Credit_Card_Spend): Creating a model to identify the factors which contributes to credit card spend of a financial institution. Identify the key factors based on the importance so that the company can focus on these drivers in order to increase spend.
   - [**Customer Churn(Telecomm Company)**](https://rpubs.com/Sufiyan1738/Cust_Attrition_Telco): Creating a model to identify drivers that contributes to customer attrition of a Telecommunication Company.
